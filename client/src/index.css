@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  background-color:#76b852;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+
+  th:nth-child(1) { background-color: #ee82ee; } /* Sno */
+  th:nth-child(2) { background-color: #ee82ee; } /* Customer Name */
+  th:nth-child(3) {background-color: #ee82ee; } /* Age */
+  th:nth-child(4) { background-color: #ee82ee; } /* Phone */
+  th:nth-child(5) { background-color:#ee82ee; } /* Location */
+  th:nth-child(6) {background-color: #ee82ee; } /* Date */
+  th:nth-child(7) { background-color: #ee82ee; } /* Time */
